@@ -18,4 +18,10 @@ public class App
         /*System.out.println( "Hello World!" );*/
 
     }
+    
+    private void myNewIssueMethod()
+    {
+    	System.out.println( "Hello World!" );
+    }
+    
 }
