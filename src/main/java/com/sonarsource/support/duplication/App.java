@@ -1,9 +1,5 @@
-package com.sonarsource.support;
+package com.sonarsource.support.duplication;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )

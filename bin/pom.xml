@@ -4,27 +4,16 @@
 
   <groupId>com.sonarsource.support</groupId>
   <artifactId>MyJavaProject</artifactId>
-  <version>4.2-SNAPSHOT</version>
+  <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>MyJavaProject</name>
-  <url>http://aljazeera.com</url>
+  <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.8</maven.compiler.source>
-    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
-	<!-- 
-	<repositories>
-	<repository>
-		<id>alfresco</id>
-		<name>Alfresco Public Repository</name>
-		<url>https://artifacts.alfresco.com/nexus/content/repositories/public</url>
-	</repository>
-	</repositories>
- 	-->
-	
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -32,11 +21,5 @@
       <version>4.12</version>
       <scope>test</scope>
     </dependency>
-	<!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
-	<dependency>
-	    <groupId>org.springframework</groupId>
-	    <artifactId>spring-jdbc</artifactId>
-	    <version>4.3.8.RELEASE</version>
-	</dependency>        
   </dependencies>
 </project>

@@ -1,0 +1,6 @@
+projectKey=com.sonarsource.support:MyJavaProject
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.24686
+dashboardUrl=http://localhost:9000/dashboard/index/com.sonarsource.support:MyJavaProject
+ceTaskId=AVxTp_i0uAWDi424PlC_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVxTp_i0uAWDi424PlC_
