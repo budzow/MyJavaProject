@@ -12,7 +12,9 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
     
-
+        for (;;) {  // Noncompliant; end condition omitted text
+      	  // ...text
+      	} // text
         
     }
     
